@@ -21,6 +21,6 @@ Specialized Interests: * Cybersecurity: Developed AI-enhanced password strength 
 
 #📫 How to reach me:
 
-LinkedIn: Riaansh Kumar Chatterjee(https://www.linkedin.com/in/riaansh-kumar-chatterjee-3966503bb/)
+LinkedIn: Riaansh Kumar Chatterjee (https://www.linkedin.com/in/riaansh-kumar-chatterjee-3966503bb/)
 
 Email: riaanshkumarchatterjee@gmail.com
