@@ -1,16 +1,23 @@
-## Hi there 👋
+#Hi there, I'm Riaansh Kumar Chatterjee! 👋
+I am a passionate M.Tech in Computer Science & Engineering student at VIT Bhopal University. I thrive on solving complex problems, building efficient systems, and exploring the intersection of physics, mathematics, and code.
 
-<!--
-**riaanshkumarchatterjee/riaanshkumarchatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#🎓 Education & Background
 
-Here are some ideas to get you started:
+Postgraduate: M.Tech in Computer Science Engineering, VIT Bhopal University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focus Areas: Software Engineering, Circuit Analysis, and Computational Physics.
+
+Current Goal: Mastering Object-Oriented Design and Advanced Numerical Methods.
+
+#💻 Technical Skill Set
+
+Languages: Python (Advanced), C++, Java.
+
+Numerical Computing: Root-finding algorithms (Bisection, Newton-Raphson, Regula Falsi).
+
+Specialized Interests: * Cybersecurity: Developed AI-enhanced password strength analyzers.
+
+#📫 How to reach me:
+
+LinkedIn: Riaansh Kumar Chatterjee(https://www.linkedin.com/in/riaansh-kumar-chatterjee-3966503bb/)
+Email: riaanshkumarchatterjee@gmail.com
